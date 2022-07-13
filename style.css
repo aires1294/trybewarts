@@ -6,12 +6,25 @@
 .header {
     background-color: rgb(50, 167, 145);
     display: flex;
+    justify-content: space-between;
 }
 
 .trybewarts-login {
     display: flex;
+    align-items: center
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(50, 167, 145) ;
+    height: 80px;
+}
+h1 {
+    color: white;
+    padding: 15px;
 }
 
-.geral {
-    display: flex;
-}
+    
+
+
+
