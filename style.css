@@ -25,3 +25,13 @@ h1 {
   color: white;
   padding: 15px;
 }
+
+#main {
+    display: flex;
+}
+
+#evaluation-form {
+    display: flex;
+    width: 675px;
+    flex-direction: column;
+}
