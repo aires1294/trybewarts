@@ -44,7 +44,3 @@ h1 {
     height: 500px;
 }
 
-.input-name {
-    display: flex;
-    flex-direction: row;
-}
