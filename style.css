@@ -43,3 +43,8 @@ h1 {
 #trybewarts-forms-logo{
     height: 500px;
 }
+
+.input-name {
+    display: flex;
+    flex-direction: row;
+}
